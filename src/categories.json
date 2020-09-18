@@ -1,0 +1,22 @@
+[
+  {
+    "value": "all",
+    "label": "All"
+  },
+  {
+    "value": "herbs",
+    "label": "Herbs"
+  },
+  {
+    "value": "vegetables",
+    "label": "Vegetables"
+  },
+  {
+    "value": "flowers",
+    "label": "Flowers"
+  },
+  {
+    "value": "succulents",
+    "label": "Succulents"
+  }
+]
